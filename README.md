@@ -20,7 +20,9 @@
 </p>
 
 ✍️ Contact Information:
+</p>
 email: tatianainesmartinez@gmail.com
+</p>
 linkedIn: https://www.linkedin.com/in/tatiana-martinez-8b5949206/
 
 
