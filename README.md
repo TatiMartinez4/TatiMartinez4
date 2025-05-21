@@ -19,8 +19,9 @@
 <img src = https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
 </p>
 
-✍️ Contact Information
-tatianainesmartinez@gmail.com
+✍️ Contact Information:
+email: tatianainesmartinez@gmail.com
+linkedIn: https://www.linkedin.com/in/tatiana-martinez-8b5949206/
 
 
 
